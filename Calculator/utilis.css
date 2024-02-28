@@ -1,0 +1,27 @@
+.textcenter{
+    text-align: center;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction:column ;
+  }
+  .items-center{
+    align-items:center;
+  }
+  #margin{
+    background-color: yellow;
+     height: 50%;
+      width: 30%;
+    
+  }
+  h1{
+    margin:2px solid black;
+    
+  }
